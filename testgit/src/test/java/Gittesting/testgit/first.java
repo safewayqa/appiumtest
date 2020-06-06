@@ -15,7 +15,7 @@ public class first {
 		driver.get("https://www.shopjustice.com/");
 		System.out.println("Nargees");
 		System.out.println("Rehan");
-		System.out.println("Ridhu");
+		System.out.println("Ridhu sanuu");
 	
 
 	}
