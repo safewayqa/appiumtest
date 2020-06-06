@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="40" started-at="2020-06-06T14:24:42Z" finished-at="2020-06-06T14:24:42Z">
+  <suite name="Suite" duration-ms="7839" started-at="2020-06-06T17:48:26Z" finished-at="2020-06-06T17:48:34Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="40" started-at="2020-06-06T14:24:42Z" finished-at="2020-06-06T14:24:42Z">
+    <test name="Test" duration-ms="7839" started-at="2020-06-06T17:48:26Z" finished-at="2020-06-06T17:48:34Z">
       <class name="Gittesting.testgit.first">
-        <test-method status="PASS" signature="team()[pri:0, instance:Gittesting.testgit.first@3ffc5af1]" name="team" duration-ms="9" started-at="2020-06-06T14:24:42Z" finished-at="2020-06-06T14:24:42Z">
+        <test-method status="PASS" signature="team()[pri:0, instance:Gittesting.testgit.first@27efef64]" name="team" duration-ms="7806" started-at="2020-06-06T17:48:26Z" finished-at="2020-06-06T17:48:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- team -->
