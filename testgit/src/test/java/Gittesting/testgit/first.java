@@ -9,7 +9,7 @@ public class first {
 	
 	@Test
 	public void team() {
-		System.setProperty("webdriver.chrome.driver", "C:\\Users\\rehan\\Desktop\\Automation\\chromedriver_win32\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\rehan\\git\\RehanRidhu\\testgit\\browsers\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		
 		driver.get("https://www.shopjustice.com/");
