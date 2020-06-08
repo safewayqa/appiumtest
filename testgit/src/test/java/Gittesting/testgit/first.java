@@ -16,6 +16,7 @@ public class first {
 		System.out.println("Nargees");
 		System.out.println("Rehan");
 		System.out.println("Ridhu sanuu");
+		System.out.println("Razaq");
 	
 
 	}
