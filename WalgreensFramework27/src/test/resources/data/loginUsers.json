@@ -1,0 +1,21 @@
+{
+	"login_credentials":{
+				"user_name": "nargees",
+				"password": "password"
+			
+		},
+"login_credential":{
+				"user_name":"rafi527@gmail.om",
+				"password": "Rehan522$"
+			
+		},
+"Filldetails":{
+			"fname":"rafi",
+			"lname":"Nargees",
+			"emailid":"rafi527@gmail.com",
+			"phone":"6143124330",
+			"month":"june",
+			"dayear":"041985"
+					
+		}
+}

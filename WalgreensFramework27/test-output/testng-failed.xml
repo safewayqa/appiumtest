@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.qa.listeners.TestListener"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="platformVersion" value="9.0"/>
+    <parameter name="udid" value="5cdaec1e"/>
+    <parameter name="platformName" value="Android"/>
+    <parameter name="deviceName" value="Rafi"/>
+    <classes>
+      <class name="com.qa.tests.prescriptionTests">
+        <methods>
+          <include name="Failure"/>
+          <include name="beforeMethod"/>
+          <include name="ExtentReportss"/>
+          <include name="beforeTest"/>
+          <include name="reportTeardown"/>
+          <include name="TestFailure"/>
+          <include name="beforeclass"/>
+          <include name="Refillaccount"/>
+          <include name="erorchecks"/>
+          <include name="afterclass"/>
+        </methods>
+      </class> <!-- com.qa.tests.prescriptionTests -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -47,12 +47,7 @@
           <suiteXmlFiles>
             <suiteXmlFile>testng27.xml</suiteXmlFile>
           </suiteXmlFiles>
-          <systempropertyvariable>
-          
-          <browser>${browsers}</browser>
-          
-          </systempropertyvariable>
-          
+                  
           
         </configuration>
       </plugin>

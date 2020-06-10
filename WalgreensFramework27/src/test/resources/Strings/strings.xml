@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<!-- -Error Text -->
+	<string name="Error_text_message">The username or password you entered is invalid. Please try again.</string>
+	<string name="Fname">Please enter your first name.</string>
+	<string name="Lname">Please enter your last name.</string>
+	<string name="DOBs">Please enter your date of birth.</string>
+	<string name="ph">Please enter your phone number.</string>
+</resources>
