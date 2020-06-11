@@ -64,7 +64,7 @@ public class SrolldownScreen {
 		int x = dim.getWidth() / 2;
 		int starty = 0;
 		int endy = 0;
-
+	
 		switch (direction) {
 
 		case "up":

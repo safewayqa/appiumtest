@@ -3,7 +3,7 @@
 <suite name="Suite" >
 <listeners>
 <listener class-name="com.qa.listeners.TestListener"/>
-<!-- <listener class-name="com.qa.listeners.AnnotationTransformer"/> -->
+<listener class-name="com.qa.listeners.AnnotationTransformer"/>
 </listeners>
  <test thread-count="5" name="Test"> 
    <parameter name="deviceName" value="Rafi"/>
@@ -11,9 +11,9 @@
   <parameter name="platformName" value="Android"/>
   <parameter name="platformVersion" value="9.0"/>
     <classes>
-<!--       <class name="com.qa.tests.LoginTests"></class> -->
+      <class name="com.qa.tests.LoginTests"></class>
       <class name="com.qa.tests.prescriptionTests"></class>
-<!--       <class name="com.qa.tests.LogindetailpageTests"></class> -->
+      <class name="com.qa.tests.LogindetailpageTests"></class>
       
     </classes>
   </test> <!-- Test -->
